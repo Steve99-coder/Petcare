@@ -8,7 +8,7 @@ hard to know without success.A link has been provided at the end of the page for
 It does not require any installations just click on the link provided below and access the information 
 you will need without any worries.
 ## Link to live Github pages
-https://steve99-coder.github.io/petcare/
+https://steve99-coder.github.io/Petcare/
 ### License
 MIT License
 
