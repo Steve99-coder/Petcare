@@ -3,9 +3,12 @@ img{
     height: 250px;
 }
 .word{
-    background-color: bisque;
+    background-color: yellow;
     font-style: italic;
 }
 h1{
     text-align: center;
+}
+body{
+    background-color: blanchedalmond;
 }
