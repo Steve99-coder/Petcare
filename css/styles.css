@@ -12,3 +12,8 @@ h1{
 body{
     background-color: blanchedalmond;
 }
+.container{
+    width: 700px;
+    margin: auto;
+    border: 10px solid #73AD21;
+}
